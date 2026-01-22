@@ -11,8 +11,8 @@ export default function Hero() {
             <div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap' }}>
                 <a href="mailto:josebalerosjr@outlook.com">josebalerosjr@outlook.com</a>
                 <a href="https://linkedin.com/in/josebalerosjr" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-                <a href="https://github.com/josebalerosjr" target="_blank" rel="noopener noreferrer">GitHub</a>
-                <a href="/cv.pdf" download="Jose-Baleros-Jr-NET-Software-Engineer.pdf" style={{ fontWeight: 'bold' }}>Download CV (PDF)</a>
+                <a href="https://github.com/josebalerosjr-medu" target="_blank" rel="noopener noreferrer">GitHub</a>
+                <a href="./cv.pdf" download="Jose-Baleros-Jr-NET-Software-Engineer.pdf" style={{ fontWeight: 'bold' }}>Download CV (PDF)</a>
             </div>
         </header>
     );
